@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "id": "8336",
+      "name": "saber",
+      "email": "saber@gmail.com",
+      "surname": "murzahanov",
+      "password": "12345678",
+      "token": "Pcd2oLVg6Yr"
+    },
+    {
+      "id": "8337",
+      "name": "anna",
+      "email": "anna@gmail.com",
+      "surname": "ivanova",
+      "password": "87654321",
+      "token": "A1b2C3d4E5f"
+    },
+    {
+      "id": "8338",
+      "name": "john",
+      "email": "john@gmail.com",
+      "surname": "doe",
+      "password": "password123",
+      "token": "XyZ1W2V3U4T"
+    },
+    {
+      "id": "37f1",
+      "name": "wwwwwww",
+      "email": "saber.@gmail.com",
+      "surname": "sswswsws",
+      "password": "12234",
+      "token": "pXwjSHT798L"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "asde3",
+      "name": "visa",
+      "currency": "usd",
+      "balance": 10000,
+      "userId": "8336"
+    },
+    {
+      "id": "asde4",
+      "name": "mastercard",
+      "currency": "usd",
+      "balance": 5000,
+      "userId": "8336"
+    },
+    {
+      "id": "asde5",
+      "name": "paypal",
+      "currency": "usd",
+      "balance": 2000,
+      "userId": "8336"
+    },
+    {
+      "id": "asde6",
+      "name": "visa",
+      "currency": "usd",
+      "balance": 3000,
+      "userId": "8337"
+    },
+    {
+      "id": "asde7",
+      "name": "mastercard",
+      "currency": "usd",
+      "balance": 4000,
+      "userId": "8337"
+    },
+    {
+      "id": "asde8",
+      "name": "bitcoin",
+      "currency": "usd",
+      "balance": 1500,
+      "userId": "8337"
+    },
+    {
+      "id": "asde9",
+      "name": "visa",
+      "currency": "usd",
+      "balance": 8000,
+      "userId": "8338"
+    },
+    {
+      "id": "asde10",
+      "name": "ethereum",
+      "currency": "usd",
+      "balance": 1200,
+      "userId": "8338"
+    },
+    {
+      "id": "asde11",
+      "name": "litecoin",
+      "currency": "usd",
+      "balance": 500,
+      "userId": "8338"
+    },
+    {
+      "id": "5fe3",
+      "name": "visa",
+      "currency": "usd",
+      "userId": "8336"
+    },
+    {
+      "id": "9de5",
+      "name": "humo",
+      "currency": "usd",
+      "userId": "8336"
+    },
+    {
+      "id": "915e",
+      "name": "visa",
+      "currency": "USD",
+      "userId": "8336"
+    },
+    {
+      "id": "755c",
+      "name": "visa",
+      "userId": "8336",
+      "balance": 5000
+    }
+  ],
+  "transactions": [
+    {
+      "id": "fds43",
+      "category": "buy a car",
+      "wallet": "visa",
+      "sum": 5000,
+      "createAt": "2024-10-11",
+      "userId": "8337"
+    },
+    {
+      "id": "fds44",
+      "category": "buy a house",
+      "wallet": "mastercard",
+      "sum": 3000,
+      "userId": "8336",
+      "createAt": "2024-10-12"
+    },
+    {
+      "id": "fds45",
+      "category": "travel",
+      "wallet": "paypal",
+      "sum": 1500,
+      "userId": "8338",
+      "createAt": "2024-10-13"
+    },
+    {
+      "id": "fds46",
+      "category": "buy electronics",
+      "wallet": "visa",
+      "sum": 1200,
+      "userId": "8338",
+      "createAt": "2024-10-10"
+    },
+    {
+      "id": "fds47",
+      "category": "clothing",
+      "wallet": "mastercard",
+      "sum": 800,
+      "userId": "8336",
+      "createAt": "2024-10-11"
+    },
+    {
+      "id": "fds48",
+      "category": "subscription",
+      "wallet": "bitcoin",
+      "userId": "8338",
+      "sum": 300,
+      "createAt": "2024-10-12"
+    },
+    {
+      "id": "fds49",
+      "category": "buy game",
+      "wallet": "visa",
+      "sum": 60,
+      "userId": "8336",
+      "createAt": "2024-10-09"
+    },
+    {
+      "id": "fds50",
+      "category": "dinner",
+      "wallet": "ethereum",
+      "userId": "8337",
+      "sum": 120,
+      "createAt": "2024-10-10"
+    },
+    {
+      "id": "fds51",
+      "category": "books",
+      "wallet": "litecoin",
+      "userId": "8338",
+      "sum": 45,
+      "createAt": "2024-10-12"
+    },
+    {
+      "id": "daa8",
+      "wallet": "visa",
+      "category": "SASASA",
+      "sum": "122121",
+      "userId": "8336",
+      "createAt": "2024-10-19"
+    }
+  ]
+}
